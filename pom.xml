@@ -68,11 +68,9 @@
     <url>http://192.168.10.134:8082/nexus/content/repositories/Final-release</url>
   </repository>
 
-<distributionManagement>
   <snapshotRepository>
     <id>snapshots</id>
     <url>http://192.168.10.134:8082/nexus/content/repositories/snapshots</url>
   </snapshotRepository>
-</distributionManagement>
 </distributionManagement>
 </project>
